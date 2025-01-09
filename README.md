@@ -1,7 +1,5 @@
 # Chatbot-clone
 
-
-# Chatbot Clone
 ## This project is a clone of a chatbot interface, designed to mimic the functionality and design of a modern AI-powered chatbot. It includes a responsive design, dark mode support, and interactive elements such as a side menu, model selection, and input fields.
 
 -- Features
